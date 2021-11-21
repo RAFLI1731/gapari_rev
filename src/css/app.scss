@@ -1,0 +1,10 @@
+// app global css in SCSS form
+@font-face {
+  font-family: rockSalt;
+  src: url(./fonts/Rock_Salt/RockSalt-Regular.ttf);
+}
+
+// declare a class which applies it
+.my-font {
+  font-family: 'rockSalt';
+}
